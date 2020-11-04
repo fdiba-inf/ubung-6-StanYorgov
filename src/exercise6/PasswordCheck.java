@@ -1,8 +1,6 @@
 package exercise6;
 
 import java.util.Scanner;
-import java.util.Arrays;
-import java.lang.String;;
 
 public class PasswordCheck {
     public static void main(String[] args) {
